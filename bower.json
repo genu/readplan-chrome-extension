@@ -1,0 +1,9 @@
+{
+  "name": "readplan",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.6.1"
+  },
+  "devDependencies": {}
+}
